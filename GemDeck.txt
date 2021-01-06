@@ -1,0 +1,43 @@
+1 Ruby 0
+2 Ruby 1
+2 Ruby 2
+2 Ruby 3
+2 Ruby 4
+2 Ruby 5
+2 Ruby 6
+2 Ruby 7
+2 Ruby 8
+2 Ruby 9
+
+1 BlackDiamond 0
+2 BlackDiamond 1
+2 BlackDiamond 2
+2 BlackDiamond 3
+2 BlackDiamond 4
+2 BlackDiamond 5
+2 BlackDiamond 6
+2 BlackDiamond 7
+2 BlackDiamond 8
+2 BlackDiamond 9
+
+1 YellowLead 0
+2 YellowLead 1
+2 YellowLead 2
+2 YellowLead 3
+2 YellowLead 4
+2 YellowLead 5
+2 YellowLead 6
+2 YellowLead 7
+2 YellowLead 8
+2 YellowLead 9
+
+1 Galaxite 0
+2 Galaxite 1
+2 Galaxite 2
+2 Galaxite 3
+2 Galaxite 4
+2 Galaxite 5
+2 Galaxite 6
+2 Galaxite 7
+2 Galaxite 8
+2 Galaxite 9

@@ -1,0 +1,549 @@
+{
+  "class": "Deck",
+  "cards": [
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 9
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw": 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 9
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw": 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 9
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw": 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 9
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw": 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw": 2
+    },
+    {
+      "class": "WildCard",
+      "value" : 50
+    },
+    {
+      "class": "WildCard",
+      "value" : 50
+    },
+    {
+      "class": "WildCard",
+      "value" : 50
+    },
+    {
+      "class": "WildCard",
+      "value" : 50
+    },
+    {
+      "class": "WildDrawNCard",
+      "value" : 50,
+      "draw" : 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value" : 50,
+      "draw" : 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value" : 50,
+      "draw" : 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value" : 50,
+      "draw" : 4
+    }
+  ]
+}

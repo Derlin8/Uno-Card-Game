@@ -1,0 +1,217 @@
+{
+  "class": "Deck",
+  "cards": [
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "WildCard",
+      "value": 25
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 3
+    }
+  ]
+}

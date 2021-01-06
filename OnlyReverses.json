@@ -1,0 +1,245 @@
+{
+  "class": "Deck",
+  "cards": [
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "ReverseCard",
+      "color": "Orange",
+      "value": 20
+    }
+  ]
+}

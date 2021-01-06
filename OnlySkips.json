@@ -1,0 +1,245 @@
+{
+  "class": "Deck",
+  "cards": [
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Orange",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Red",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Blue",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Green",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Yellow",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Purple",
+      "value": 20
+    },
+    {
+      "class": "SkipCard",
+      "color": "Orange",
+      "value": 20
+    }
+  ]
+}

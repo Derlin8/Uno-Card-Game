@@ -1,0 +1,293 @@
+{
+  "class": "Deck",
+  "cards": [
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Green",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Yellow",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Purple",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Orange",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw" : 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw" : 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Green",
+      "value": 20,
+      "draw" : 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Yellow",
+      "value": 20,
+      "draw" : 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Purple",
+      "value": 20,
+      "draw" : 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Orange",
+      "value": 20,
+      "draw" : 2
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Green",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Yellow",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Purple",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Orange",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Green",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Yellow",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Purple",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Orange",
+      "value": 20,
+      "draw" : 3
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Green",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Yellow",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Purple",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Orange",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Green",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Yellow",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Purple",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Orange",
+      "value": 20,
+      "draw" : 4
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Green",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Yellow",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Purple",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Orange",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Red",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Blue",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Green",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Yellow",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Purple",
+      "value": 20,
+      "draw" : 1
+    },
+    {
+      "class": "DrawNCard",
+      "color": "Orange",
+      "value": 20,
+      "draw" : 1
+    }
+  ]
+}

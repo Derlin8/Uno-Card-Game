@@ -1,0 +1,155 @@
+{
+  "class": "Deck",
+  "cards": [
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 10
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 10
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 10
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 10
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 11
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 11
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 11
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 11
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 11
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 22
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 22
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 22
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 22
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 22
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 22
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 53
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 53
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 53
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 53
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 53
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 53
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 53
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 113
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 113
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 113
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 113
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 113
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 113
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 113
+    },
+    {
+      "class": "NumberCard",
+      "color": "Gold",
+      "value": 113
+    }
+  ]
+}

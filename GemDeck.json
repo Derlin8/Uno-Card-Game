@@ -1,0 +1,385 @@
+{
+  "class": "Deck",
+  "cards": [
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "Ruby",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "BlackDiamond",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "YellowLead",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 3
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 4
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 5
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 6
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 7
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 8
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 9
+    },
+    {
+      "class": "NumberCard",
+      "color": "Galaxite",
+      "value": 9
+    }
+  ]
+}

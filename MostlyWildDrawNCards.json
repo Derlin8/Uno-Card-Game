@@ -1,0 +1,265 @@
+{
+  "class": "Deck",
+  "cards": [
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 2
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 2
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 2
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 2
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 2
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 2
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 3
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 4
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "WildDrawNCard",
+      "value": 50,
+      "draw": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Red",
+      "value": 0
+    },
+    {
+      "class": "NumberCard",
+      "color": "Blue",
+      "value": 1
+    },
+    {
+      "class": "NumberCard",
+      "color": "Green",
+      "value": 2
+    },
+    {
+      "class": "NumberCard",
+      "color": "Yellow",
+      "value": 3
+    }
+  ]
+}
