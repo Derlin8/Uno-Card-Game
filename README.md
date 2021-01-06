@@ -1,3 +1,2 @@
 # Uno-Card-Game
-Objected Oriented Programming Final
-Interactive Uno Card Game
+Interactive Uno Card Game using objected oriented programming principles
