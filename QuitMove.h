@@ -14,5 +14,5 @@ namespace Uno {
 
         MoveType moveType;
     };
-}
+} 
 #endif //UNO_QUITMOVE_H
