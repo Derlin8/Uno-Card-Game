@@ -5,5 +5,5 @@ Implementation of the interactive card game, Uno. Implementing colors, numeric v
 
 Utilize Inheritance and Polymorphism to extend a program's functionality. Used the C++ boost library to incorporate new functionality. 
 
-<img src = "https://github.com/Derlin8/Uno-Card-Game/blob/master/uno.jpg?raw=true" width = 500>
+<img src = "https://github.com/Derlin8/Uno-Card-Game/blob/main/uno.jpg?raw=true" width = 500>
 
